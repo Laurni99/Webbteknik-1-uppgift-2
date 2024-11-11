@@ -133,21 +133,21 @@ h1 {
 
     aside {
 
-        width: 350px; 
+        width: 250px; 
 
-        margin: 23px; 
+        margin: 13px; 
 
     }
 
 
     main {
 
-        padding: 20px;
+        padding: 10px;
 
     }
 
 
     nav, header, footer {
 
-        padding: 15px; 
+        padding: 5px; 
   }
