@@ -27,7 +27,7 @@ nav:hover {
 
     display: flex; 
 
-    list-style-type: none;
+    list-style-type: none;}
 
 header {
     grid-area: header;
