@@ -101,7 +101,7 @@ h1 {
 
 /* Media query för mobile first */
 
-@media only screen and (max-width: 390px) {
+@media only screen and (max-width: 962px) {
 
     body {
 
