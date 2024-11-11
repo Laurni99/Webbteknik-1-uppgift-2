@@ -78,11 +78,11 @@ h1 {
 
 /* Media query för mobil */
 
-@media only screen and (max-width: 390px) {
+@media only screen and (min-width: 390px) {
 
     body {
 
-        grid-template-columns: 1fr 1fr; 
+        grid-template-columns: 1fr 2fr; 
 
         grid-template-areas:
 
