@@ -29,8 +29,9 @@ nav:hover {
 
     list-style-type: none;
 
-    gap: 15px
+    gap: 15px;
 
+    justify-content: center; 
 }
 
 header {
