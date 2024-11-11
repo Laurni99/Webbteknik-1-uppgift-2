@@ -78,7 +78,7 @@ h1 {
 
 /* Media query för mobil */
 
-@media only screen and (max-width: 844px) {
+@media only screen and (max-width: 390px) {
 
     body {
 
