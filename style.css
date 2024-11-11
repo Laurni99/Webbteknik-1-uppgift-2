@@ -2,17 +2,27 @@
 
 
 body {
-    background-color: #639fcd;
+     background-color: #639fcd;
+
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
     font-size: 14px;
+
     display: grid;
-    grid-template-columns: 1fr; 
+
+    grid-template-columns: 1fr 1fr;
+
     grid-template-rows: min-content 100px auto 70px;
+
     grid-template-areas:
-        "nav"
-        "header"
-        "main"
-        "footer";
+
+        "nav          nav"
+
+        "header       header"
+
+        "main         aside"
+
+        "footer       footer";
 }
 
 nav {
