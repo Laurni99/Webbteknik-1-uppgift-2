@@ -82,7 +82,7 @@ h1 {
 
     body {
 
-        grid-template-columns: 1fr 1fr; 
+        grid-template-columns: 1fr; 
 
         grid-template-areas:
 
@@ -103,14 +103,14 @@ h1 {
 
         width: auto; 
 
-        margin: 10; 
+        margin: 10px; 
 
     }
 
 
     nav, header, main, footer {
 
-        padding: 30px; 
+        padding: 10px; 
 
     }
 
