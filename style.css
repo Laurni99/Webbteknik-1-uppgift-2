@@ -124,9 +124,7 @@ h1 {
 
     aside {
 
-        width: auto; 
-
-        margin: 10px; 
+        display: none;
 
     }
 
