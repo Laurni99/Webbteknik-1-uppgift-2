@@ -23,6 +23,11 @@ nav {
 nav:hover {
     background-color: #0a4a8c;
 }
+.nav-list {
+
+    display: flex; 
+
+    list-style-type: none;
 
 header {
     grid-area: header;
