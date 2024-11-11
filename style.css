@@ -60,9 +60,12 @@ aside {
 
 footer {
     grid-area: footer;
+
     background-color: #06305e;
-    font-stretch: condensed;
-    color:#639fcd;
+
+    color: #639fcd;
+
+    text-align: center; 
 }
 .footer-länkar {
 
