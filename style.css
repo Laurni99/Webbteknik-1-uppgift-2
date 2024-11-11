@@ -86,11 +86,15 @@ h1 {
 
         grid-template-areas:
 
-            "nav header"
+            "nav"
 
-            "main aside"
+            "header"
 
-            "footer footer";
+            "main"
+
+            "aside"
+
+            "footer";
 
     }
 
